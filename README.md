@@ -59,7 +59,7 @@ Three models were evaluated:
 * **Decision:** Approved / Rejected
 * **Risk Probability:** Percentage risk of default.
 
-![App Interface Screenshot](screenshots/app_demo.png)
+![App Interface Screenshot]([screenshots/app_demo.png](https://github.com/sourav-003/Credit-Card-Approval-Prediction-System/blob/main/Screenshot%202025-11-29%20165709.png))
 
 ##  Results
 
